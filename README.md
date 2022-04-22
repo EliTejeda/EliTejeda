@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliTejeda
 - 👀 I’m interested in design, videogames and all kinds of Illustration tecnics
-- 🌱 I’m currently learning JS for web desing
+- 🌱 I’m currently learning JS to become a Front-End Dev
 - 💞️ I’m looking to collaborate on proyects that involve design and Illustration
 - 📫 How to reach me ...here in Github or Discord as LizzyHouses
 
