@@ -9,8 +9,3 @@ EliTejeda/EliTejeda is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-HTML5 CSS3 JavaScript React
-
-Git GitHub Figma NPM
-
-Firebase Jest Eslint
