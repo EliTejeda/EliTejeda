@@ -40,11 +40,13 @@ SPA that allows Internet users to share information about short walks near their
 
 #### 👽 Rick & Morty-DATA LOVERS
 
-FanPage that uses a database that we can sort, filter, and search for information about the characters of the animated series. Technologies used: Figma, JS(ES6), HTML and CSS
+FanPage that uses a database that we can sort, filter, and search for information about the characters of the animated series. 
+Technologies used: Figma, JS(ES6), HTML and CSS
 
 #### 🍕PizzaCat-CIPHER
 
-Allows you to generate promo codes for a pizzeria and decipher the codes to redeem them at various locations. Technologies used JS(ES6), HTML and CSS
+Allows you to generate promo codes for a pizzeria and decipher the codes to redeem them at various locations. 
+Technologies used JS(ES6), HTML and CSS
 
 <hr>
 
