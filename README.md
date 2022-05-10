@@ -4,7 +4,7 @@
 
 ## 🚀 About
   
-- 👋 Hi, I’m @EliTejeda a Front-End Developer in México,
+- 👋 Hi, I’m @EliTejeda a Front-End Developer from México,
 - 💻 I'm a Graphic Designer and also I have a Master's Degree in Digital Marketing.
 - 👀 I’m interested in all kinds of skills of Design and Build.
 - 🌱 Currently I'm passionate for learning JS and Developer tech tools.
