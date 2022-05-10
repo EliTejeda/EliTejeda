@@ -1,3 +1,7 @@
+
+<h1>Hello! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+
+<p align="left">
 - 👋 Hi, I’m @EliTejeda
 - 👀 I’m interested in design, videogames and all kinds of Illustration tecnics
 - 🌱 I’m currently learning JS to become a Front-End Dev
@@ -20,6 +24,5 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=React)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
 
 <hr>
