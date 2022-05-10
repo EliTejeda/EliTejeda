@@ -4,12 +4,11 @@
 
 ## 🚀 About
   
-- 👋 Hi, I’m a Front-End Developer currently learning JS but also,
+- 👋 Hi, I’m a Front-End Developer in México,
 - 💻 I'm a Graphic Designer and have a master's degree in digital marketing.
-- 👀 I’m interested in design, videogames and all kinds of Illustration tecnics.
-- ![image](https://user-images.githubusercontent.com/97549498/167520934-f03111ff-41ea-47aa-98e4-1155b940d150.png)
-- 🌱 I love learning new tools. 
-- 💞️ I’m looking to collaborate on proyects that involve design and Illustration
+- 👀 I’m interested in Design, videogames and all kinds of Illustration tecnics but...
+- 🌱 Currently I'm passionate for learning JS and Developer tech tools
+- 💞️ I’m looking to collaborate with teams and proyects that involve creativity apply to UX and UI.  
   
 
 <hr>
