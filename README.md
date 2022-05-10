@@ -29,7 +29,7 @@
 
 ## 💥 Front-End Projects
 
-#### 📝 ANOTA- LABNOTES
+#### 📝 A nota- LABNOTES
 
 It is a journal for creatives that allows you to record notes, edit, delete and have your ideas at hand.
 Technologies used: React, Figma, JS (ES6), HTML, CSS, Firebase
