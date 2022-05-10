@@ -8,7 +8,7 @@
 - 💻 I'm a Graphic Designer and also I have a Master's Degree in Digital Marketing.
 - 👀 I’m interested in all kinds of skills of Design and Build.
 - 🌱 Currently I'm passionate for learning JS and Developer tech tools.
-- 💞️ I’m looking to collaborate with teams and proyects that involve creativity apply to UX and UI.
+- 💞️ I’m looking to collaborate with teams and projects that involve creativity apply to UX and UI.
 - 🎸 Hobbies: Illustration, paint and make small models, acustic guitar, I love music and watch movies or series...
   
 
