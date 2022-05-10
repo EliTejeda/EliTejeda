@@ -29,17 +29,21 @@
 
 ## 💥 Front-End Projects
 
-#ANOTA- LABNOTES
+## ANOTA- LABNOTES
+
 It is a journal for creatives that allows you to record notes, edit, delete and have your ideas at hand.
 Technologies used: React, Figma, JS (ES6), HTML, CSS, Firebase
 
-#Paseito- RED SOCIAL
+## Paseito- RED SOCIAL
+
 SPA that allows Internet users to share information about short walks near their area, allows you to create an account, create posts, delete, edit and like. Technologies used: Figma, JS (ES6), HTML, CSS, Firebase
 
-#Rick & Morty-DATA LOVERS
+## Rick & Morty-DATA LOVERS
+
 FanPage that uses a database that we can sort, filter, and search for information about the characters of the animated series. Technologies used: Figma, JS(ES6), HTML and CSS
 
-#PizzaCat-CIPHER
+## PizzaCat-CIPHER
+
 Allows you to generate promo codes for a pizzeria and decipher the codes to redeem them at various locations. Technologies used JS(ES6), HTML and CSS
 
 <hr>
