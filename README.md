@@ -4,13 +4,13 @@
 
 ## 🚀 About
   
-- 👋 Hi, I’m @EliTejeda a Front-End Developer from México,
-- 🌱 Currently I'm passionate for learning JS and Developer tech tools
-- 💛 I am currently learning a lot at the Laboratoria bootcamp, it is a wonderful experience that allowed me to reinforce my soft and technical skills
-- 💻 I'm a Graphic Designer and also I have a Master's Degree in Digital Marketing.
-- 👀 I’m interested in all kinds of skills of Design and Build.
-- 💞️ I’m looking to collaborate with teams and projects that involve creativity apply to UX and UI.
-- 🎸 Hobbies: Illustration, paint and make small models, acustic guitar, I love music and watch movies or series...
+👋 Hi, I’m @EliTejeda a Front-End Developer from México,
+🌱 Currently I'm passionate for learning JS and Developer tech tools
+💛 I am currently learning a lot at the Laboratoria bootcamp, it is a wonderful experience that allowed me to reinforce my soft and technical skills
+💻 I'm a Graphic Designer and also I have a Master's Degree in Digital Marketing.
+👀 I’m interested in all kinds of skills of Design and Build.
+💞️ I’m looking to collaborate with teams and projects that involve creativity apply to UX and UI.
+🎸 Hobbies: Illustration, paint and make small models, acustic guitar, I love music and watch movies or series...
   
 
 <hr>
