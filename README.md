@@ -4,9 +4,10 @@
 
 ## 🚀 About
   
-- 👋 Hi, I’m a Front-End Developer currently learning JS but also. 
-- 💻 I'm a Graphic Designer and also have a master's degree in digital marketing.
+- 👋 Hi, I’m a Front-End Developer currently learning JS but also,
+- 💻 I'm a Graphic Designer and have a master's degree in digital marketing.
 - 👀 I’m interested in design, videogames and all kinds of Illustration tecnics.
+- ![image](https://user-images.githubusercontent.com/97549498/167520934-f03111ff-41ea-47aa-98e4-1155b940d150.png)
 - 🌱 I love learning new tools. 
 - 💞️ I’m looking to collaborate on proyects that involve design and Illustration
   
