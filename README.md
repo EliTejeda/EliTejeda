@@ -1,14 +1,15 @@
 
 <h1 align = "center">Hello there, I'm Eli! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
+
 ## 🚀 About
-<p align="center">
+  
 - 👋 Hi, I’m a Front-End Developer currently learning JS but also. 
 - 💻 I'm a Graphic Designer and also have a master's degree in digital marketing.
 - 👀 I’m interested in design, videogames and all kinds of Illustration tecnics.
 - 🌱 I love learning new tools. 
 - 💞️ I’m looking to collaborate on proyects that involve design and Illustration
-  </p>
+  
 
 <hr>
 
