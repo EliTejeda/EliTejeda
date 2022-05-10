@@ -1,23 +1,18 @@
 
 <h1 align = "center">Hello there, I'm Eli! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
+## 🚀 About
 <p align="center">
-- 👋 Hi, I’m a Front-End Developer currently learning JS but also I'm a Graphic Designer and MKT Digital degree
-- 👀 I’m interested in design, videogames and all kinds of Illustration tecnics
-- 🌱 I love learning new tools, 
+- 👋 Hi, I’m a Front-End Developer currently learning JS but also. 
+- 💻 I'm a Graphic Designer and also have a master's degree in digital marketing.
+- 👀 I’m interested in design, videogames and all kinds of Illustration tecnics.
+- 🌱 I love learning new tools. 
 - 💞️ I’m looking to collaborate on proyects that involve design and Illustration
-
-
   </p>
-
-<!---
-EliTejeda/EliTejeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <hr>
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
