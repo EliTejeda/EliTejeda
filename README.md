@@ -5,10 +5,10 @@
 ## 🚀 About
   
 - 👋 Hi, I’m @EliTejeda a Front-End Developer from México,
+- 🌱 Currently I'm passionate for learning JS and Developer tech tools
+- 💛 I am currently learning a lot at the Laboratoria bootcamp, it is a wonderful experience that allowed me to reinforce my soft and technical skills
 - 💻 I'm a Graphic Designer and also I have a Master's Degree in Digital Marketing.
 - 👀 I’m interested in all kinds of skills of Design and Build.
-- 🌱 Currently I'm passionate for learning JS and Developer tech tools
-- 💛 That its why I'm in Laboratoria Bootcamp
 - 💞️ I’m looking to collaborate with teams and projects that involve creativity apply to UX and UI.
 - 🎸 Hobbies: Illustration, paint and make small models, acustic guitar, I love music and watch movies or series...
   
@@ -29,20 +29,20 @@
 
 ## 💥 Front-End Projects
 
-## ANOTA- LABNOTES
+## 📝 ANOTA- LABNOTES
 
 It is a journal for creatives that allows you to record notes, edit, delete and have your ideas at hand.
 Technologies used: React, Figma, JS (ES6), HTML, CSS, Firebase
 
-## Paseito- RED SOCIAL
+## 🚗 Paseito- RED SOCIAL
 
 SPA that allows Internet users to share information about short walks near their area, allows you to create an account, create posts, delete, edit and like. Technologies used: Figma, JS (ES6), HTML, CSS, Firebase
 
-## Rick & Morty-DATA LOVERS
+## 👽 Rick & Morty-DATA LOVERS
 
 FanPage that uses a database that we can sort, filter, and search for information about the characters of the animated series. Technologies used: Figma, JS(ES6), HTML and CSS
 
-## PizzaCat-CIPHER
+## 🍕PizzaCat-CIPHER
 
 Allows you to generate promo codes for a pizzeria and decipher the codes to redeem them at various locations. Technologies used JS(ES6), HTML and CSS
 
