@@ -45,7 +45,7 @@ FanPage that uses a database that we can sort, filter, and search for informatio
 
 #### 🍕PizzaCat-CIPHER
 
-Allows you to generate promo codes for a pizzeria and decipher the codes to redeem them at various locations. 
+Allows you to generate promo codes for a Pizza place and decipher the codes to redeem them at various locations. 
 <br>Technologies used JS(ES6), HTML and CSS
 
 <hr>
