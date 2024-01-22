@@ -6,7 +6,6 @@
   
 <br>👋 Hi, I’m @EliTejeda a Front-End Developer from México,
 <br>🌱 Currently I'm passionate for learning JS and Developer tech skills so...
-<br>💛 I'm learning a lot at the Laboratoria Bootcamp, it is a wonderful experience that allowed me to reinforce my soft and technical skills.
 <br>💻 I'm a Graphic Designer and also I have a Master's Degree in Digital Marketing.
 <br>👀 I’m interested in all kinds of skills of Design and Build.
 <br>💞️ I’m looking to collaborate with teams and projects that involve creativity apply to UX and UI.
