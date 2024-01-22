@@ -5,10 +5,9 @@
 ## 🚀 About
   
 <br>👋 Hi, I’m @EliTejeda from México,
-<br>🌱 Currently I'm passionate for learning JS and Developer tech skills so...
-<br>💻 I'm a Graphic Designer and also I have a Master's Degree in Digital Marketing.
-<br>👀 I’m interested in all kinds of skills of Design and Build.
-<br>💞️ I’m looking to collaborate with teams and projects that involve creativity apply to UX and UI.
+<br>🌱 Currently I'm passionate for learning JS and Front-End Developer tech skills so...
+<br>💻 I'm a Graphic Designer and also I’m interested in all kinds of skills of Design and Build.
+<br>👀 I’m looking to collaborate with teams and projects that involve creativity apply to UX and UI. 
 <br>🎸 Hobbies: Illustration, paint and make small models, acustic guitar, I love music and watch movies or series...
   
 
